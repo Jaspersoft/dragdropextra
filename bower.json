@@ -1,10 +1,11 @@
 {
-  "name": "dragdropextra",
-  "main": "dragdropextra.js",
+  "name": "dragandropextra",
   "version": "0.2.0",
-  "homepage": "https://github.com/Jaspersoft/dragdropextra",
+  "homepage": "https://github.com/Jaspersoft/iscroll",
+  "main": "dragandropextra.js",
   "keywords": [
-    "d&d"
+    "drag",
+    "drop"
   ],
   "license": "MIT",
   "private": true,
@@ -12,10 +13,7 @@
     "**/.*",
     "node_modules",
     "bower_components",
-    "test",
     "tests",
     "libs"
-    "LICENSE",
-    "README"
   ]
 }
